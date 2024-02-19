@@ -47,6 +47,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/feelfreefly/Tvbox1/main/香蕉久久热.json"},
+    {"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/feelfreefly/Tvbox1/main/色花堂.json"},
+    {"key":"csp_xBPQ_天天直播","name":"天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/feelfreefly/Tvbox1/main/香蕉直播.json"},
 
 {"name":"apittzy探探资源","key":"11*探探资源","type":1,"api":"http://172.247.24.50/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"apittzy探探","key":"11探探","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},

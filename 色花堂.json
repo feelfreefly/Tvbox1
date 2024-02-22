@@ -1,42 +1,24 @@
-
-<html>
-  <head>
-    <meta content="origin" name="referrer">
-    <title>Bad request &middot; GitHub</title>
-    <meta name="viewport" content="width=device-width">
-    <style type="text/css" media="screen">
-      body {
-        background-color: #f6f8fa;
-        color: rgba(0, 0, 0, 0.5);
-        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
-        font-size: 14px;
-        line-height: 1.5;
-      }
-      .c { margin: 50px auto; max-width: 600px; text-align: center; padding: 0 24px; }
-      a { text-decoration: none; }
-      a:hover { text-decoration: underline; }
-      h1 { color: #24292e; line-height: 60px; font-size: 48px; font-weight: 300; margin: 0px; }
-      p { margin: 20px 0 40px; }
-      #s { margin-top: 35px; }
-      #s a {
-        color: #666666;
-        font-weight: 200;
-        font-size: 14px;
-        margin: 0 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="c">
-      <h1>Whoa there!</h1>
-      <p>You have sent an invalid request. <br><br>
-        Please do not send this request again.
-      </p>
-      <div id="s">
-        <a href="https://support.github.com">Contact Support</a> &mdash;
-        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
-        <a href="https://twitter.com/githubstatus">@githubstatus</a>
-      </div>
-    </div>
-  </body>
-</html>
+{
+"站名":"色花堂",
+"请求头":"手机",
+"主页url":"https://96gaokk.com/",
+#"主页url":"https://10gaokk.com/",
+#"主页url":"https://90gao.com/",
+#"主页url":"https://12gaokk.com/",
+"数组":"<div class=\"img-box cover-md\">&&</h6>",
+"图片":"data-original=\"&&\"",
+"标题":"<h6 class=\"title\">&&</a>",
+"链接":"href=\"&&\"",
+"副标题":"<div class=\"ribbon-top-left\">&&</div>",
+#"副标题":"</svg>&&</p>",
+"线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
+"线路标题":">&&</a>",
+"播放数组":"<div class=\"item line\">&&</div>",
+"影片类型":"<p class=\"sub-title\"&&</p>",
+"简介":"<div class=\"header-left\">&&</div>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+"分类":"国产精品$1#日韩亚洲$2#自拍偷拍$15#欧美激情$3#主播视频$16#中文字幕$4#日韩无码$11#动漫成人$14#推荐视频$6#欧美大片$7#原创国产$8#制服淫穴$9#换脸AI区$10#三级综艺$12#重问3P$13#强奸乱伦$17#精品女优$18#人妻系列$19#极骚萝莉$20#HEYZO$21#独家诱惑$22#首次少女$23#高潮喷吹$24",
+"分类url":"https://96gaokk.com/typegaokk/{cateId}_{catePg}.html[https://96gaokk.com/typegaokk/{cateId}.html"
+}
